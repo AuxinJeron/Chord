@@ -1,0 +1,49 @@
+run 1 1
+run 1
+run compile
+sbt clear
+sbt compile
+compile
+run 1 1
+compile
+run 1 1
+run 2 1
+sbt
+run 2 1
+run 100 1
+run 10 1
+run 3 1
+run 2 1
+rsbt
+sbt
+run 2 1
+compile
+run 2 1
+run 10 1
+compile
+run 10 1
+run 5 1
+run 3 1
+run 2 1
+run 3 1
+run 2 1
+run 1 1
+run 2 1
+run 3 1
+run 2 1
+run 1 1
+run 2 1
+run 3 1
+run 2 1
+run 3 1
+run 2 1
+run 3 1
+run 2 1
+run 3 1
+run 2 1
+run 3 1
+run 2 1
+run 3 1
+run 2 1
+run 3 1
+run 3 1 
